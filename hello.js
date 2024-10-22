@@ -32,3 +32,9 @@ var a = 3;
 if(a<10){
     console.log("computer er mata thik ace");
 }
+
+var a = 3;
+var b = 4;
+if(a<b){
+    console.log("See you not for maid")
+}
